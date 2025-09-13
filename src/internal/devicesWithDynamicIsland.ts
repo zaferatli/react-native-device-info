@@ -3,6 +3,26 @@ import { NotchDevice } from './privateTypes';
 const devicesWithDynamicIsland: NotchDevice[] = [
   {
     brand: 'Apple',
+    model: 'iPhone 17',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 17 Air',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 17 Pro',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 17 Pro Max',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 16e',
+  },
+  {
+    brand: 'Apple',
     model: 'iPhone 16',
   },
   {
